@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ujian S.K 5.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Title">Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train</string>
+    <string name="Date">06 January 2021</string>
+    <string name="UserRating">85%</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur diam eget volutpat porta. Sed dictum id mi in facilisis. Suspendisse vehicula convallis efficitur. Nunc imperdiet velit ut est hendrerit, vel cursus libero pellentesque. Sed varius vel orci in finibus. Etiam eu enim justo. Duis tempor ipsum in sem aliquam, id vestibulum odio imperdiet. Curabitur condimentum sem lacus, nec mattis diam pharetra nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In ac erat at lorem mattis varius. Etiam eu risus metus.</string>
+    <string name="movies">Movies</string>
+    <string name="tvshows">Tv Shows</string>
+    <string name="popularity_d">Popularity : %s</string>
+    <string name="baseUrlImage">http://image.tmdb.org/t/p/w500%s</string>
+    <string name="popularity_detail">Popularity : %s, Vote Count : %s, Vote Average : %s</string>
+    <string name="ttlshare">Bagikan ini sekarang.</string>
+    <string name="shareBody">Saya sedang melihat info film di Movie App, Download Aplikasi ini Sekarang!!</string>
+    <string name="Description">Description</string>
+    <string name="popularity">Popularity</string>
+    <string name="share">Share</string>
+    <string name="postertopbar">posterTopBar</string>
+    <string name="foregroundpostertopbar">foregroundPosterTopBar</string>
+    <string name="backbutton">BackButton</string>
+    <string name="subPoster">subPoster</string>
+    <string name="icon">icon</string>
+    <string name="poster">poster</string>
+
+    <string name="act_main_txt_welcome">Welcome, %d</string>
+    <string name="home_username">Welcome, %1$s</string>
+    <string name="username">%1$s</string>
+
+    <string name="act_regis_txt_signup">Ready to watch?</string>
+    <string name="act_regis_txt_username">Username</string>
+    <string name="act_regis_txt_email">Email</string>
+    <string name="act_regis_txt_pass">Password</string>
+    <string name="act_regis_txt_confirm_pass">Confirm Password</string>
+    <string name="act_regis_txt_button_signup">Sign Up</string>
+    <string name="act_regis_txt_desc">Already have an account?</string>
+    <string name="act_regis_txt_btn_signin">Sign In Here</string>
+    <string name="act_profile_update_profile">Update Profile</string>
+    <string name="act_profile_title">Profile</string>
+    <string name="act_profile_toast">Profile Updated</string>
+    <string name="act_profile_toast_form">Fill The Register Form</string>
+    <string name="act_profile_logout">Logout</string>
+
+</resources>
